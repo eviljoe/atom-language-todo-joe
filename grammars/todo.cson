@@ -1,9 +1,9 @@
-'scopeName': 'text.todo'
-'name': 'TODO'
+'scopeName': 'text.todo.joe'
+'name': 'TODOJOE'
 'injectionSelector': 'comment, text.plain'
 'patterns': [
   {
-    'match': '(?<!\\w)@?(TODO|FIXME|CHANGED|XXX|IDEA|HACK|NOTE|REVIEW|NB)\\b'
+    'match': '(?<!\\w)@?(JOE)\\b'
     'name': 'storage.type.class.${1:/downcase}'
   }
   {

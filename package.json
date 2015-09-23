@@ -1,19 +1,19 @@
 {
-  "name": "language-todo",
+  "name": "atom-language-todo-joe",
   "version": "0.27.0",
-  "description": "TODO/FIXME highlighting support in Atom",
+  "description": "TODO (JOE) highlighting support in Atom",
   "engines": {
     "atom": "*",
     "node": "*"
   },
-  "homepage": "http://atom.github.io/language-todo",
+  "homepage": "https://github.com/eviljoe/atom-language-todo-joe",
   "repository": {
     "type": "git",
-    "url": "https://github.com/atom/language-todo.git"
+    "url": "https://github.com/eviljoe/atom-language-todo-joe.gitt"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/atom/language-todo/issues"
+    "url": "https://github.com/eviljoe/atom-language-todo-joe"
   },
   "devDependencies": {
     "coffeelint": "^1.10.1"
